@@ -4,3 +4,4 @@
 这是第4行解决冲突后的结果
 version1
 version2
+version3
